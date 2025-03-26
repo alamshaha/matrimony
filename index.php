@@ -6,7 +6,7 @@
 <body>
 
 <h1>Hello world!</h1>
-<p>This is the first file in my new Git Repo. 12313</p>
+<p>This is the first file in my new Git Repo. 12313 New Update for New branch</p>
 
 </body>
 </html>
